@@ -4,4 +4,4 @@
 </br></br>
 
 ## Team_Project
-- [근태관리 서비스](https://github.com/Time-Attendanced)
+- [근태관리 서비스](https://github.com/Time-Attendance)
